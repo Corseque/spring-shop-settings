@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="spring-shop-settings">
-      <change beforePath="$PROJECT_DIR$/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application-dev.yml" afterDir="false" />
-    </list>
+    <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="spring-shop-settings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680253735434</updated>
-      <workItem from="1680253736799" duration="5124000" />
+      <workItem from="1680253736799" duration="5488000" />
     </task>
     <task id="LOCAL-00001" summary="spring-shop-settings">
       <created>1680264895287</created>
@@ -89,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680287789921</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="spring-shop-settings">
+      <created>1680288231492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680288231492</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
