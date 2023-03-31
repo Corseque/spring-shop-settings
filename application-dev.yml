@@ -1,7 +1,9 @@
 spring:
   datasource:
-    url: "jdbc:postgresql://localhost:5433/shop"
-    username: "postgres"
-    password: "minx"
+    platform: postgres
+    url: jdbc:postgresql://localhost:5433/shop
+    username: postgres
+    password: minx
+    driverClassName: org.postgresql.Driver
 
   app.setting: 'dv'
