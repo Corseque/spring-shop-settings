@@ -1,6 +1,6 @@
 spring.datasource:
   url: "jdbc:postgresql://localhost:5433/shop"
-  username: "postgres"
-  password: "minx"
+  username: '{cipher}AYBecj8nzFcltbEI3G7MbyIhEWnhm7KWDnLirBzD5wao1IDyNQLkRkrqoIVMqgzghbXXTGTluowVc7eR8XPHxmj'
+  password: '{cipher}AYC5w2JCZuLXbLiUnPQ8W1Dw6GnGNCGV/F+PbaAWBrT5+AHGDOhleshy8+/gRwfPDIGIZKsXL9SscSDnI4lLgfG73Ep6CE446feKjD+nT7xFBQRiRbjQybzt7Nw5xO3xZbDLdFg2kJAbrdVJrB/qSWCk6mpb2+TgIcVaHOOBbOzpU9zCJ5NWG7fpoTZwa8OpAu+1DZ57pag3YVO25OaSm3UnxT6t6IcIjXqrnwTSVIM30k1a20DKYVGUHFWOyOL5NFM98/rPUJZ19z8o4VHDoOB933ccQZyEuUOUNAVc2LatqWjeuJRQjBmEBEBxYbVgUfnbX9ZYUXOEBnSCvfPYgdSCiziV1RWmCaLUc1/B5+Fp7nl/IjThwieNJI2TOtCFhSB5aAAar6DDozj44YMIPA5zan5Ns/zYoCjbsWnMMbH9uNV8Xe/6q9H6UFWnb20bJp58v5UQvDlW3rT3QVXpBAUyEzzgT6At65W1jlGXUnvZR9KRhnv0CxIsmNdhdx9lefo283GKkDRAY5FsMGuUQ0UrLgnSpwIDqxXzbqSompU0/A=='
 
   app.setting: 'dv'
