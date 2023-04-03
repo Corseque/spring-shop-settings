@@ -6,4 +6,7 @@ spring.datasource:
 #  username: "postgres"
 #  password: "minx"
 
-  app.setting: 'dv'
+api:
+  endpoint:
+    base-uri: '127.0.0.1:8080'
+app.setting: 'dv'
