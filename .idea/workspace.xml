@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="lesson 4 settings for feign client">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-api-external.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application-api-external.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680253735434</updated>
-      <workItem from="1680253736799" duration="12461000" />
+      <workItem from="1680253736799" duration="13793000" />
     </task>
     <task id="LOCAL-00001" summary="spring-shop-settings">
       <created>1680264895287</created>
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680558748839</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lesson 4 settings for feign client">
+      <created>1680559802666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680559802666</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
