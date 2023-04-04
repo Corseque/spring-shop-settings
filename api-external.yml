@@ -1,7 +1,6 @@
 api:
     endpoint:
         manufacturer-url: 'http://${api.endpoint.base-uri}/api/v1/manufacturer'
-
     connection:
         period: 100
         max-period: 10000 #Millis
