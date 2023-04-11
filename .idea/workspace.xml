@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680253735434</updated>
       <workItem from="1680253736799" duration="24412000" />
-      <workItem from="1680868922646" duration="1767000" />
+      <workItem from="1680868922646" duration="4838000" />
     </task>
     <task id="LOCAL-00001" summary="spring-shop-settings">
       <created>1680264895287</created>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680869464127</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="lesson 5 add thymeleaf settings">
+      <created>1680953393512</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680953393512</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -9,4 +9,5 @@ spring.datasource:
 api:
   endpoint:
     base-uri: '127.0.0.1:8080'
+    external-uri: '127.0.0.1:8081/external'
 app.setting: 'dv'
