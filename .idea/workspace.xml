@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="lesson 5 external-uri" />
+    <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="lesson 6 external-uri" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680253735434</updated>
       <workItem from="1680253736799" duration="24412000" />
-      <workItem from="1680868922646" duration="6679000" />
+      <workItem from="1680868922646" duration="6989000" />
     </task>
     <task id="LOCAL-00001" summary="spring-shop-settings">
       <created>1680264895287</created>
@@ -221,7 +221,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681252135380</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="lesson 6 external-uri">
+      <created>1681252339308</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1681252339308</updated>
+    </task>
+    <task id="LOCAL-00027" summary="lesson 6 external-uri">
+      <created>1681252417215</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681252417215</updated>
+    </task>
+    <task id="LOCAL-00028" summary="lesson 6 external-uri">
+      <created>1681252520721</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681252520721</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +264,7 @@
     <MESSAGE value="lesson 4 settings for feign client" />
     <MESSAGE value="lesson 5 add thymeleaf settings" />
     <MESSAGE value="lesson 5 external-uri" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 5 external-uri" />
+    <MESSAGE value="lesson 6 external-uri" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 6 external-uri" />
   </component>
 </project>
