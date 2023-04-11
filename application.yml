@@ -2,12 +2,12 @@ app.setting: 'ad'
 
 api:
   endpoint:
-    manufacturer-url: 'http://${api.endpoint.base-uri}/api/v1/manufacturer'
-    category-url: 'http://${api.endpoint.base-uri}/api/v1/category'
-    product-url: 'http://${api.endpoint.base-uri}/api/v1/product'
-#    manufacturer-url: 'http://${api.endpoint.base-uri}/external/api/v1/manufacturer'
-#    category-url: 'http://${api.endpoint.base-uri}/external/api/v1/category'
-#    product-url: 'http://${api.endpoint.base-uri}/external/api/v1/product'
+#    manufacturer-url: 'http://${api.endpoint.base-uri}/api/v1/manufacturer'
+#    category-url: 'http://${api.endpoint.base-uri}/api/v1/category'
+#    product-url: 'http://${api.endpoint.base-uri}/api/v1/product'
+    manufacturer-url: 'http://${api.endpoint.base-uri}/external/api/v1/manufacturer'
+    category-url: 'http://${api.endpoint.base-uri}/external/api/v1/category'
+    product-url: 'http://${api.endpoint.base-uri}/external/api/v1/product'
   connection:
     period: 100
     max-period: 10000 #Millis
