@@ -1,1 +1,7 @@
 app.setting: 'thymeleaf-spring-shop'
+
+api:
+  endpoint:
+    manufacturer-url: 'http://127.0.0.1:8081/external/api/v1/manufacturer'
+    category-url: 'http://127.0.0.1:8081/external/api/v1/category'
+    product-url: 'http://127.0.0.1:8081/external/api/v1/product'
