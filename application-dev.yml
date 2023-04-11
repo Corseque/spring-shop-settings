@@ -8,6 +8,6 @@ spring.datasource:
 
 api:
   endpoint:
-#    base-uri: '127.0.0.1:8080'
-    base-uri: '127.0.0.1:8081'
+    base-uri: '127.0.0.1:8080'
+#    base-uri: '127.0.0.1:8081'
 app.setting: 'dv'
