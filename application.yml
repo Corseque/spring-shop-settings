@@ -5,6 +5,7 @@ api:
     manufacturer-url: 'http://${api.endpoint.base-uri}/api/v1/manufacturer'
     category-url: 'http://${api.endpoint.base-uri}/api/v1/category'
     product-url: 'http://${api.endpoint.base-uri}/api/v1/product'
+    user-url: 'http://127.0.0.1:8081/external/api/v1/user'
 #    manufacturer-url: 'http://${api.endpoint.external-uri}/external/api/v1/manufacturer'
 #    category-url: 'http://${api.endpoint.external-uri}/external/api/v1/category'
 #    product-url: 'http://${api.endpoint.external-uri}/external/api/v1/product'
