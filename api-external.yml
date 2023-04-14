@@ -1,1 +1,5 @@
 app.setting: 'api-external'
+
+jwt.token:
+  expired: 86_400_000
+  secret: 'sletlichnayasecret'
