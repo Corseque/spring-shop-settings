@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="lesson 6 user-url thymeleaf-spring-shop">
+    <list default="true" id="14cd2029-bf21-4a5a-b446-bdac9079c619" name="Changes" comment="lesson 7 add jwt settings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-external.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-external.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <updated>1680253735434</updated>
       <workItem from="1680253736799" duration="24412000" />
       <workItem from="1680868922646" duration="13029000" />
-      <workItem from="1681460470610" duration="300000" />
+      <workItem from="1681460470610" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="spring-shop-settings">
       <created>1680264895287</created>
@@ -330,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681328456760</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="lesson 7 add jwt settings">
+      <created>1681460936457</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1681460936457</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,6 +360,7 @@
     <MESSAGE value="lesson 5 external-uri" />
     <MESSAGE value="lesson 6 external-uri" />
     <MESSAGE value="lesson 6 user-url thymeleaf-spring-shop" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 6 user-url thymeleaf-spring-shop" />
+    <MESSAGE value="lesson 7 add jwt settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 7 add jwt settings" />
   </component>
 </project>
