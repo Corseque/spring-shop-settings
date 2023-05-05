@@ -47,7 +47,8 @@
       <updated>1680253735434</updated>
       <workItem from="1680253736799" duration="24412000" />
       <workItem from="1680868922646" duration="13029000" />
-      <workItem from="1681460470610" duration="2472000" />
+      <workItem from="1681460470610" duration="5635000" />
+      <workItem from="1683327543068" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="spring-shop-settings">
       <created>1680264895287</created>
@@ -350,7 +351,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681820881454</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="lesson 7 add authentication-url">
+      <created>1681838244464</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1681838244464</updated>
+    </task>
+    <task id="LOCAL-00045" summary="lesson 7 add authentication-url">
+      <created>1681838257444</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1681838257444</updated>
+    </task>
+    <task id="LOCAL-00046" summary="lesson 7 add authentication-url">
+      <created>1681838380389</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1681838380389</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
