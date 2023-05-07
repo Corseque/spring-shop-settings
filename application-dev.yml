@@ -7,9 +7,6 @@ spring:
 #  username: "postgres"
 #  password: "minx"
 
-  artemis:
-    user: 'minx'
-    password: 'dianushka'
 
 api:
   endpoint:
